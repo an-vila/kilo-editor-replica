@@ -1,0 +1,7 @@
+/home/andervilarino/Escritorio/text_editor/build/Desktop_Debug/CMakeFiles/text_editor.dir
+/home/andervilarino/Escritorio/text_editor/build/Desktop_Debug/CMakeFiles/edit_cache.dir
+/home/andervilarino/Escritorio/text_editor/build/Desktop_Debug/CMakeFiles/rebuild_cache.dir
+/home/andervilarino/Escritorio/text_editor/build/Desktop_Debug/CMakeFiles/list_install_components.dir
+/home/andervilarino/Escritorio/text_editor/build/Desktop_Debug/CMakeFiles/install.dir
+/home/andervilarino/Escritorio/text_editor/build/Desktop_Debug/CMakeFiles/install/local.dir
+/home/andervilarino/Escritorio/text_editor/build/Desktop_Debug/CMakeFiles/install/strip.dir
